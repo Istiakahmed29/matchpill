@@ -1,0 +1,23 @@
+# Build output
+MatchPill.exe
+minimal*.exe
+*.pdb
+
+# Runtime state - config.json holds YOUR API key, so it is never committed
+config.json
+cache.json
+next.json
+alerts.json
+stopped.flag
+requestlog.txt
+*.log
+
+# Crests downloaded at runtime
+crests/
+
+# Screenshots produced by --shot
+*.png
+
+# Windows junk
+Thumbs.db
+desktop.ini

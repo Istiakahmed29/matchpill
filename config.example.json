@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "provider": "footballdata",
+  "apiKey": "PASTE_YOUR_FREE_FOOTBALL_DATA_ORG_KEY_HERE",
+  "apiBaseUrl": "https://api.football-data.org/v4/",
+  "competitions": ["PL", "PD", "SA", "BL1", "FL1", "CL"],
+  "favorites": [
+    { "id": "57", "name": "Arsenal FC", "competition": "PL" },
+    { "id": "86", "name": "Real Madrid", "competition": "PD" }
+  ],
+  "collapsed": true,
+  "opacity": 100,
+  "wizardDone": true,
+  "monitor": "",
+  "expanded": { "x": 0, "y": 0, "w": 0, "h": 0 },
+  "collapsedBounds": { "x": 0, "y": 0, "w": 0, "h": 0 }
+}
