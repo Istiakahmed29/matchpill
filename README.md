@@ -18,6 +18,9 @@ Windows 10/11 x64. No installer, no admin rights, no runtime to install: .NET Fr
 
 ## Build
 
+Prefer not to compile? A ready-built `MatchPill.exe` is attached to
+[Releases](../../releases/latest). Otherwise:
+
 ```bat
 build.bat
 ```
